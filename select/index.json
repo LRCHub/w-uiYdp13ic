@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "ユニゾン",
+  "base_artist": "Liella!",
+  "createdAt": "2026-03-27T12:58:02.038999Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ユニゾン",
+      "artist": "Liella!",
+      "has_synced": false,
+      "path": "select/01_ユニゾン_Liella!.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ユニゾン☆ビート",
+      "artist": "舞浜歩(CV.戸田めぐみ)",
+      "has_synced": true,
+      "path": "select/02_ユニゾン☆ビート_舞浜歩(CV.戸田めぐみ).lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ユニゾン",
+      "artist": "Superfly",
+      "has_synced": true,
+      "path": "select/03_ユニゾン_Superfly.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ユニゾン",
+      "artist": "ClariS",
+      "has_synced": true,
+      "path": "select/04_ユニゾン_ClariS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ユニゾン",
+      "artist": "Maaya Sakamoto",
+      "has_synced": false,
+      "path": "select/05_ユニゾン_Maaya_Sakamoto.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ユニゾン",
+      "artist": "ClariS",
+      "has_synced": false,
+      "path": "select/06_ユニゾン_ClariS.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ユニゾン",
+      "artist": "坂本真綾",
+      "has_synced": false,
+      "path": "select/07_ユニゾン_坂本真綾.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ユニゾン",
+      "artist": "Liella!",
+      "has_synced": false,
+      "path": "select/pl_01_ユニゾン_Liella!.txt"
+    }
+  ]
+}
